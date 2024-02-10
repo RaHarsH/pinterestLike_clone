@@ -6,7 +6,7 @@ Features:
 Secure Registration: Users can register safely with their credentials.
 User Authentication: Secure login and logout functionalities are implemented.
 Image Upload: Users can upload images to the platform.
-Browse and Share Images: Users can browse through images uploaded by other users and share their own.
+
 Technologies Used:
 EJS
 JavaScript
